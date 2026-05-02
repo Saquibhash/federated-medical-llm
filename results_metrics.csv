@@ -1,0 +1,7 @@
+Metric,Value,Status
+Federated Convergence Final NLL,3.7717,Passed
+Trimmed Mean Toxicity Score,0.0,Backdoor reduced in controlled simulation
+MIA ROC-AUC,0.5172,Near-random membership inference
+Forget vs Non-Member p-value,0.6071,No significant difference observed
+Oracle L2 Distance Reduction,15.91 to 15.13,Moved closer to oracle baseline
+LoRA Asymmetry Drift Ratio,8.2x,Observed drift pattern
